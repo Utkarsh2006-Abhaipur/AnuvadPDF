@@ -1,0 +1,6 @@
+{
+  "name": "PDF Translator English to Hindi",
+  "description": "Translate PDF documents from English to Hindi while preserving layout, formatting, and paragraphs with OCR, real-time preview, and batch processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
